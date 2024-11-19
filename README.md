@@ -1,1 +1,1 @@
-# SoumiKDaS1701.github.io
+This repository is for maintaining my personal website.
